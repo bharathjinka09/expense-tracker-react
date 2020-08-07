@@ -2,9 +2,9 @@ import React from 'react';
 
 export const Header = () => {
   return (
-    <h2>
+    <h1 style={{textAlign: 'center'}}>
      Expense Tracker
-    </h2>
+    </h1>
   );
 }
 
